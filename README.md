@@ -84,7 +84,7 @@ stress-ng --cpu 2 --timeout 60s
 
 ---
 
-## 📸 Screenshots (To Be Added)
+## 📸 Screenshots (I’ve detailed every step, command, and dashboard in my full Medium article with screenshots.)
 
 | Component         | Description                         |
 | ----------------- | ----------------------------------- |
