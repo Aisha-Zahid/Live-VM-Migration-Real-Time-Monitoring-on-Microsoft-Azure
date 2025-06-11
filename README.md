@@ -73,7 +73,7 @@ groups:
       severity: critical
     annotations:
       summary: "High CPU usage detected"
-      description: "CPU usage > 70% for over 1 min."
+      description: "CPU usage > 80% for over 1 min."
 ```
 
 ### ✅ 6. Stress Testing
